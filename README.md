@@ -1,3 +1,6 @@
+このプロジェクトは[【HTML/CSS コーディング練習】初級編：ECサイト／商品ページ](https://code-step.com/ec-menu/)のコーディングを行ったものです。
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
